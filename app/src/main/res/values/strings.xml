@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Crop</string>
+    <string name="take_new_image">Take New Image</string>
+    <string name="select_image_from_gallery">Select Image From Gallery</string>
+</resources>
