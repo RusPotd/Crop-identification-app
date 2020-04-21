@@ -50,9 +50,6 @@ def test():
 def Exit():
         os.execl(sys.executable, os.path.abspath(__file__), *sys.argv)
 
-@app.route('/token')
-def token():
-        return "cHJvdmlzaW9uAHVzZXIxQGMwY2E3Mi52aWR5by5pbwA2Mzc1NDc4NDQwOAAAMDZiNDAzMjRiMDEyZTZiYTRmN2QxZWQ1ZTRmY2MzNmNlZTZhYmYxY2M1MTEyZDFiNzdiMjRiZTMwMjA0Y2RmNDA4NWE5NjMzYzEyMWNlMWE0NmRhYmM5MWY1MTViYTI5"
 
 # In[ ]:
 
